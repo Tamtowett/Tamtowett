@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tamtowett
 - 👀 I’m interested in software development
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me:1 towetttamar@gmail.com
+- 📫 How to reach me: towetttamar@gmail.com
 
 
 <!---
